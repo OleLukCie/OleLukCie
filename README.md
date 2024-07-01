@@ -5,6 +5,4 @@
 - 📫 BTC address:    1K6SoEFLc4x29upSckcRFpLjHXGnTme3MT
 - ⚡ Fun fact: I'm much younger than you think
 
-
-![c-logo](https://github.com/OleLukCie/OleLukCie/assets/153407686/b911c7ff-8ef0-4272-b7d7-29bf72f236e7)
-![python-logo](https://github.com/OleLukCie/OleLukCie/assets/153407686/821d6738-5c87-443a-880b-290052ffa0fe)
+![アーリャ](https://github.com/OleLukCie/OleLukCie/assets/153407686/883f4827-e0f0-47bd-98eb-5dabcbab208a)
