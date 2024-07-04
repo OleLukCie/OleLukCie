@@ -6,3 +6,7 @@
 - ⚡ Fun fact: I'm much younger than you think
 
 ![アーリャ](https://github.com/OleLukCie/OleLukCie/assets/153407686/883f4827-e0f0-47bd-98eb-5dabcbab208a)
+
+
+https://github.com/OleLukCie/OleLukCie/assets/153407686/42af22d4-20e7-43e2-87e4-32ae7b1b77e8
+
