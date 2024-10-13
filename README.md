@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ john.chambers.a@gmail.com
 - 📫 BTC address:    1K6SoEFLc4x29upSckcRFpLjHXGnTme3MT
-- ⚡ Fun fact: I'm much younger than you think
 
 
 ***びゃくやこう***
