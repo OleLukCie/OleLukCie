@@ -27,7 +27,7 @@ Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pur
 - **Japanese**: ★★☆☆☆ (Basic)  
 
 ### <i class="fa fa-code" aria-hidden="true" style="color: #3B82F6;"></i> Programming  
-`C` | `C++` | `Python`  
+`[ C ]`  `[ C++ ]`  `[ Python ]`
 
 
 ## 🎬 Animation Studio  
