@@ -23,7 +23,7 @@ Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pur
 ***“I speak English, plus a smattering of Chinese, German, and Japanese — y’know, the human kinds. And I also ‘talk’ C/C++, Python — y’know, the machine kinds.”***
 ### <i class="fa fa-comments" aria-hidden="true" style="color: #3B82F6;"></i> Human Languages  
 - **English**: ★★★★★ (Fluent)  
-- **Chinese**: ★★☆☆☆ (Basic)  
+- **Chinese**: ★★★★★ (Fluent)  
 - **German**: ★★☆☆☆ (Basic)  
 - **Japanese**: ★★☆☆☆ (Basic)  
 
