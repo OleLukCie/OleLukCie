@@ -14,7 +14,8 @@ Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pur
 <div style="background: linear-gradient(to right, #8B5CF620, #8B5CF610); padding: 1rem; border-radius: 8px; border-left: 4px solid #8B5CF6;">  
   <i class="fa fa-graduation-cap" aria-hidden="true" style="color: #8B5CF6; margin-right: 8px;"></i>  
   <strong>Machine Learning</strong>  
-  <p style="margin: 0.5rem 0 0 24px;">Exploring algorithms, neural networks, and practical applications in AI.</p>  
+  <p style="margin: 0.5rem 0 0 24px;">Exploring algorithms, neural networks, and practical applications in AI.</p>
+  <p style="margin: 0.5rem 0 0 24px;"> He who puts full faith in artificial wit doth prove himself a fool.</p>
 </div>  
 
 
