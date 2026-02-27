@@ -16,6 +16,7 @@ Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pur
   <strong>Machine Learning</strong>  
   <p style="margin: 0.5rem 0 0 24px;">Exploring algorithms, neural networks, and practical applications in ML.</p>
   <p style="margin: 0.5rem 0 0 24px;"> He who puts full faith in artificial wit doth prove himself a fool.</p>
+  <p style="margin: 0.5rem 0 0 24px;"> The so-called artificial intelligence today is merely a stochastic parrot of probabilities, far from genuine intelligence, let alone AGI. We should avoid using the term "AI" or "AGI" and instead use terms like "ML" as alternatives.</p>
 </div>  
 
 
