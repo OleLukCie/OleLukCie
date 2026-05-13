@@ -1,23 +1,10 @@
-# 🌟 OleLukCie
-
-## 📌 About Me  
-Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pursuits. I'm passionate about various fields and constantly expanding my knowledge and skills.  
+# 🌟 John Chambers
 
 ## ✨ Interests  
 | <i class="fa fa-calculator" aria-hidden="true"></i> | <i class="fa fa-book" aria-hidden="true"></i> | <i class="fa fa-film" aria-hidden="true"></i> |  
 |-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|  
-| **Mathematics**                                     | **Reading**                                   | **Visual Novels**                             |  
-| A foundational interest that drives logical thinking and problem-solving. | Exploring diverse topics through books and expanding knowledge horizons. | Enjoying interactive storytelling and immersive narrative experiences. |  
-
-
-## 📚 Currently Learning  
-<div style="background: linear-gradient(to right, #8B5CF620, #8B5CF610); padding: 1rem; border-radius: 8px; border-left: 4px solid #8B5CF6;">  
-  <i class="fa fa-graduation-cap" aria-hidden="true" style="color: #8B5CF6; margin-right: 8px;"></i>  
-  <strong>Machine Learning</strong>  
-  <p style="margin: 0.5rem 0 0 24px;">Exploring algorithms, neural networks, and practical applications in ML.</p>
-  <p style="margin: 0.5rem 0 0 24px;"> He who puts full faith in artificial wit doth prove himself a fool.</p>
-  <p style="margin: 0.5rem 0 0 24px;"> The so-called artificial intelligence today is merely a stochastic parrot of probabilities, far from genuine intelligence, let alone AGI. We should avoid using the term "AI" or "AGI" and instead use terms like "ML" as alternatives.</p>
-</div>  
+| **Mathematics**                                     | **Reading**                                   | **Animation**                             |  
+| A foundational interest that drives logical thinking and problem-solving. | Exploring diverse topics through books and expanding knowledge horizons. | Enjoying interactive storytelling and immersive narrative experiences. |    
 
 
 ## 🌐 Languages & Skills  
@@ -32,7 +19,7 @@ Hello! I'm OleLukCie, with a diverse range of interests and ongoing learning pur
 `[ C ]`  `[ C++ ]`  `[ Python ]`
 
 
-## 🎬 Animation Studio  
+## 🎬 OleLukCie Animation Studio  
 Founded on June 3rd, 2022.  
 First animation is in Phase 1.
 
