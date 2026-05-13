@@ -15,10 +15,6 @@
 - **German**: ★★☆☆☆ (Basic)  
 - **Japanese**: ★★☆☆☆ (Basic)  
 
-### <i class="fa fa-code" aria-hidden="true" style="color: #3B82F6;"></i> Programming  
-`[ C ]`  `[ C++ ]`  `[ Python ]`
-
-
 ## 🎬 OleLukCie Animation Studio  
 Founded on June 3rd, 2022.  
 First animation is in Phase 1.
