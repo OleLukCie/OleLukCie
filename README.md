@@ -19,6 +19,8 @@
 Founded on June 3rd, 2022.  
 First animation is in Phase 1.
 
+<img width="2000" height="2000" alt="4th" src="https://github.com/user-attachments/assets/cf233f1d-a320-4ace-a315-01c39ac31855" />
+
 
 ## 📫 Contact  
 | <i class="fa fa-at" aria-hidden="true" style="color: #8B5CF6;"></i> | <i class="fa fa-bitcoin" aria-hidden="true" style="color: #8B5CF6;"></i> |  
