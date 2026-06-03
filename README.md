@@ -18,8 +18,8 @@
 ## 🎬 OleLukCie Animation Studio  
 Founded on June 3rd, 2022.  
 First animation is in Phase 1.
+<img width="200" height="267" alt="4th_poster" src="https://github.com/user-attachments/assets/363c452c-a5a8-4b73-b437-d312ebb94de7" />
 
-<img width="2000" height="2000" alt="4th" src="https://github.com/user-attachments/assets/cf233f1d-a320-4ace-a315-01c39ac31855" />
 
 
 ## 📫 Contact  
