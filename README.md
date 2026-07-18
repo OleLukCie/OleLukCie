@@ -24,13 +24,14 @@ First animation is in Phase 1.
 | **Email**                                                         | **BTC**                                                                 |  
 | john.chambers.a@gmail.com                                         | 1K6SoEFLc4x29upSckcRFpLjHXGnTme3MT                                     |  
 
-
 ## 🎯 **Good Hunting!**
 
 ---
 
 <p align="center">
-  <img width="350" alt="train_batch35721" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e">
+  <img width="350" alt="Terminator Art" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="700" alt="MI6 Banner" src="https://github.com/user-attachments/assets/87058866-ca04-4a9c-89db-bf4a7a8a723b">
 </p>
 
 ### Project Repository
