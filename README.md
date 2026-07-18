@@ -38,4 +38,4 @@ First animation is in Phase 1.
 © OleLukCie. All rights reserved.  
 
 **Good Hunting!**
-<img width="1920" height="1920" alt="train_batch35721" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e" />
+<img width="200" height="200" alt="train_batch35721" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e" />
