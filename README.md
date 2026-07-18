@@ -25,6 +25,13 @@ First animation is in Phase 1.
 | john.chambers.a@gmail.com                                         | 1K6SoEFLc4x29upSckcRFpLjHXGnTme3MT                                     |  
 
 
-**Good Hunting!**
-<img width="290" height="290" alt="train_batch35721" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e" />
-*https://github.com/OleLukCie/Terminator*
+## 🎯 **Good Hunting!**
+
+---
+
+<p align="center">
+  <img width="350" alt="train_batch35721" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e">
+</p>
+
+### Project Repository
+[https://github.com/OleLukCie/Terminator](https://github.com/OleLukCie/Terminator)
