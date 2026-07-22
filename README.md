@@ -24,7 +24,7 @@ First animation is in Phase 1.
 | **Email**                                                         | **BTC**                                                                 |  
 | john.chambers.a@gmail.com                                         | 1K6SoEFLc4x29upSckcRFpLjHXGnTme3MT                                     |  
 
-## 🎯 **Good Hunting!**
+## 🎯 **Idealismus pulcher est, donec eius victima fias.**
 
 ---
 
