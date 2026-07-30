@@ -9,10 +9,6 @@
 
 ## 🌐 Languages & Skills  
 ***“I speak English, plus a smattering of Chinese, German, and Japanese — y’know, the human kinds. And I also ‘talk’ C/C++, Python — y’know, the machine kinds.”***
-### <i class="fa fa-comments" aria-hidden="true" style="color: #3B82F6;"></i> Human Languages  
-- **English**: ★★★★★ (Fluent)  
-- **Chinese**: ★★★★★ (Fluent)  
-- **Japanese**: ★★★★★ (Fluent)  
 
 ## 🎬 OleLukCie Animation Studio  
 Founded on June 3rd, 2022.  
