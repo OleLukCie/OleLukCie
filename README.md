@@ -10,10 +10,6 @@
 ## 🌐 Languages & Skills  
 ***“I speak English, plus a smattering of Chinese, German, and Japanese — y’know, the human kinds. And I also ‘talk’ C/C++, Python — y’know, the machine kinds.”***
 
-## 🎬 OleLukCie Animation Studio  
-Founded on June 3rd, 2022.  
-First animation is in Phase 1.
-
 ## 📫 Contact  
 | <i class="fa fa-at" aria-hidden="true" style="color: #8B5CF6;"></i> | <i class="fa fa-bitcoin" aria-hidden="true" style="color: #8B5CF6;"></i> |  
 |-------------------------------------------------------------------|-------------------------------------------------------------------------|  
