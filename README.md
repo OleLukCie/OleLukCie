@@ -20,11 +20,17 @@
 
 ---
 
-<p align="center">
-  <img width="350" alt="Terminator Art" src="https://github.com/user-attachments/assets/087bb387-44dd-416f-ae7e-b6484fa8654e">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="700" alt="MI6 Banner" src="https://github.com/user-attachments/assets/87058866-ca04-4a9c-89db-bf4a7a8a723b">
-</p>
+ +--^----------,--------,-----,--------^-,
+ | |||||||||   `--------'     |          O
+ `+---------------------------^----------|
+   `\_,---------,---------,--------------'
+     / XXXXXX /'|       /'
+    / XXXXXX /  `\    /'
+   / XXXXXX /`-------'
+  / XXXXXX /
+ / XXXXXX /
+(________(                
+ `------' 
 
 ### Project Repository
 [https://github.com/OleLukCie/Terminator](https://github.com/OleLukCie/Terminator)
