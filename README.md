@@ -19,7 +19,7 @@
 ## 🎯 **Idealismus pulcher est, donec eius victima fias.**
 
 ---
-
+```
  +--^----------,--------,-----,--------^-,
  | |||||||||   `--------'     |          O
  `+---------------------------^----------|
@@ -31,6 +31,6 @@
  / XXXXXX /
 (________(                
  `------' 
-
+```
 ### Project Repository
 [https://github.com/OleLukCie/Terminator](https://github.com/OleLukCie/Terminator)
