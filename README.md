@@ -9,3 +9,5 @@
 
 ## 🌐 Languages & Skills  
 ***“I speak English, Japanese and Chinese, plus a smattering of German — y’know, the human kinds. And I also ‘talk’ C/C++, Python — y’know, the machine kinds.”***
+---
+<img width="500" height="300" alt="California" src="https://github.com/user-attachments/assets/d38f3343-db36-44bc-8677-4499ad32885e" />
